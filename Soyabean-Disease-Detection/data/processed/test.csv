@@ -1,0 +1,76 @@
+image_path,label
+data\raw\soyabean_dataset\Healthy\HEALTHY(24).jpg,2
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(17).jpg,1
+data\raw\soyabean_dataset\Bacterial Blight\BB(78).jpg,0
+data\raw\soyabean_dataset\Rust\RUST(40).jpg,3
+data\raw\soyabean_dataset\Bacterial Blight\BB(61).jpg,0
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(22).jpg,1
+data\raw\soyabean_dataset\Rust\RUST(49).jpg,3
+data\raw\soyabean_dataset\Bacterial Blight\BB(10).jpg,0
+data\raw\soyabean_dataset\Rust\RUST(16).jpg,3
+data\raw\soyabean_dataset\Bacterial Blight\BB(39).jpg,0
+data\raw\soyabean_dataset\Healthy\HEALTHY(43).jpg,2
+data\raw\soyabean_dataset\Bacterial Blight\BB(53).jpg,0
+data\raw\soyabean_dataset\Rust\RUST(71).jpg,3
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(85).jpg,4
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(103).jpg,4
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(50).jpg,4
+data\raw\soyabean_dataset\Healthy\HEALTHY(26).jpg,2
+data\raw\soyabean_dataset\Bacterial Blight\BB(74).jpg,0
+data\raw\soyabean_dataset\Bacterial Blight\BB(30).jpg,0
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(93).jpg,1
+data\raw\soyabean_dataset\Healthy\HEALTHY(59).jpg,2
+data\raw\soyabean_dataset\Bacterial Blight\BB(93).jpg,0
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(93).jpg,4
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(24).jpg,4
+data\raw\soyabean_dataset\Rust\RUST(43).jpg,3
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(34).jpg,4
+data\raw\soyabean_dataset\Rust\RUST(24).jpg,3
+data\raw\soyabean_dataset\Rust\RUST(97).jpg,3
+data\raw\soyabean_dataset\Healthy\HEALTHY(91).jpg,2
+data\raw\soyabean_dataset\Rust\RUST(52).jpg,3
+data\raw\soyabean_dataset\Rust\RUST(39).jpg,3
+data\raw\soyabean_dataset\Bacterial Blight\BB(63).jpg,0
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(94).jpg,1
+data\raw\soyabean_dataset\Healthy\HEALTHY(57).jpg,2
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(45).jpg,1
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(32).jpg,1
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(11).jpg,1
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(4).jpg,4
+data\raw\soyabean_dataset\Bacterial Blight\BB(28).jpg,0
+data\raw\soyabean_dataset\Healthy\HEALTHY(71).jpg,2
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(81).jpg,1
+data\raw\soyabean_dataset\Healthy\HEALTHY(96).jpg,2
+data\raw\soyabean_dataset\Healthy\HEALTHY(77).jpg,2
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(89).jpg,4
+data\raw\soyabean_dataset\Healthy\HEALTHY(9).jpg,2
+data\raw\soyabean_dataset\Bacterial Blight\BB(11).jpg,0
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(105).jpg,4
+data\raw\soyabean_dataset\Rust\RUST(64).jpg,3
+data\raw\soyabean_dataset\Rust\RUST(36).jpg,3
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(81).jpg,4
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(74).jpg,1
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(48).jpg,1
+data\raw\soyabean_dataset\Healthy\HEALTHY(75).jpg,2
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(73).jpg,1
+data\raw\soyabean_dataset\Bacterial Blight\BB(57).jpg,0
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(50).jpg,1
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(74).jpg,4
+data\raw\soyabean_dataset\Bacterial Blight\BB(43).jpg,0
+data\raw\soyabean_dataset\Rust\RUST(50).jpg,3
+data\raw\soyabean_dataset\Bacterial Blight\BB(67).jpg,0
+data\raw\soyabean_dataset\Healthy\HEALTHY(72).jpg,2
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(13).jpg,1
+data\raw\soyabean_dataset\Rust\RUST(78).jpg,3
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(11).jpg,4
+data\raw\soyabean_dataset\Bacterial Blight\BB(80).jpg,0
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(33).jpg,1
+data\raw\soyabean_dataset\Healthy\HEALTHY(23).jpg,2
+data\raw\soyabean_dataset\Cercospora Leaf Blight\CLB(1).jpg,1
+data\raw\soyabean_dataset\Rust\RUST(29).jpg,3
+data\raw\soyabean_dataset\Rust\RUST(58).jpg,3
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(15).jpg,4
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(53).jpg,4
+data\raw\soyabean_dataset\Sudden Death Syndrome\SDS(14).jpg,4
+data\raw\soyabean_dataset\Healthy\HEALTHY(19).jpg,2
+data\raw\soyabean_dataset\Healthy\HEALTHY(11).jpg,2
