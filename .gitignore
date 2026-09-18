@@ -1,0 +1,33 @@
+# Virtual environments
+.soyabeanENV/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw dataset
+data/raw/
+
+# Temporary/processed image files
+data/processed/images/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
